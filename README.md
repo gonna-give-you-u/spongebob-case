@@ -5,4 +5,4 @@ i might add more stuff later when i become more familiar
 
 i dont own the name spongebob (obviously)
 
-compiling: literally `gcc Main.cpp` on linux (i built windows ones on linux with x86_64-w64-mingw32-g++ lol don't ask me how to build on windows)
+compiling: literally `g++ Main.cpp` on linux (i built windoze ones on linux with x86_64-w64-mingw32-g++ lol don't ask me how to build on windoze)
