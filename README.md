@@ -1,3 +1,5 @@
+# Apparently some AVs are allergic to mingw and might make a false positive on the win(dows) builds, just ignore it i guess
+
 # spongebob-case
 bad Program that converts text to spongebob case (it's bad because it's very basic and i havent really done much c++ before so yeah i just made this in my free time to learn a bit)
 
